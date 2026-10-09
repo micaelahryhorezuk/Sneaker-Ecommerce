@@ -2,20 +2,45 @@
 
 **Repositorio:** `micaelahryhorezuk/Sneaker-Ecommerce`  
 **GitHub Project:** `Sneaker - Planificación del desarrollo`
+# Sneaker — Product Backlog
 
-> **IMPORTANTE:** Los Sprints **1 y 2 ya están cargados**. Este archivo incluye únicamente los Sprints **3 a 8** y la **etapa de cierre**. Antes de crear Issues, comparar con los existentes para evitar duplicados. No modificar ni borrar tareas existentes sin autorización.
+**Repositorio:** `micaelahryhorezuk/Sneaker-Ecommerce`  
+**GitHub Project:** `Sneaker - Planificación del desarrollo`
 
-## Instrucciones para el agente
+## Organización del Product Backlog
 
-1. Verificar la autenticación de `gh`, el repositorio, el número del Project, los campos y las iteraciones reales.
-2. Presentar una vista previa de las tareas faltantes y solicitar autorización **antes** de crear o editar Issues.
-3. Crear cada tarea como un Issue en `micaelahryhorezuk/Sneaker-Ecommerce` y agregarlo al Project. No crear duplicados: usar el código `Txx.x` como identificador.
-4. Completar los campos **Status = Pendiente**, **Horas estimadas**, **Prioridad MoSCoW** y **Sprint** según la tabla. Usar las iteraciones existentes; no borrarlas ni recrearlas.
-5. La columna **Responsable prevista** es una planificación, no una confirmación de asignación en GitHub. Asignar solo si la cuenta GitHub correspondiente está identificada y autorizada; **Alejandra** no tiene usuario GitHub especificado aquí. Para **Ambas**, asignar ambas únicamente si sus cuentas están confirmadas. De lo contrario, conservar el dato en la descripción del Issue y reportar pendientes.
-6. Si no existe algún campo, permiso o iteración, detenerse y pedir instrucciones; no sustituir valores silenciosamente.
-7. Al terminar, informar cantidad de Issues creados, omitidos por existir y errores, junto con los enlaces.
+El Product Backlog del proyecto Sneaker contiene las tareas necesarias para desarrollar la tienda online de zapatillas, organizadas según la metodología Scrum.
 
-**Nota:** Las tecnologías React, Node/Express, PostgreSQL y Mercado Pago son propuestas de planificación, sujetas a confirmación del equipo.
+Para facilitar la planificación y el seguimiento del trabajo, se utiliza GitHub Projects, donde las tareas se registran mediante Issues y se distribuyen en Sprints.
+
+La planificación contempla ocho Sprints de dos semanas y una etapa final de pruebas, correcciones y documentación.
+
+Este documento presenta las tareas correspondientes a los Sprints 3 a 8 y la etapa de cierre. Las tareas de los Sprints 1 y 2 se encuentran registradas por separado en GitHub Projects.
+
+Cada tarea incluye:
+
+- Identificador y descripción.
+- Estimación de horas.
+- Prioridad según el método MoSCoW.
+- Responsable previsto.
+- Estado de avance.
+
+Los estados de trabajo definidos son: **Pendiente, En progreso, En revisión y Finalizado**.
+
+## Tecnologías previstas
+
+Para el desarrollo de Sneaker se utilizarán las siguientes tecnologías:
+
+- **Frontend:** React, JavaScript, HTML y CSS.
+- **Backend:** Python y FastAPI.
+- **Base de datos:** PostgreSQL.
+- **Acceso a datos:** SQLAlchemy.
+- **Integración de pagos:** API de Mercado Pago.
+- **Control de versiones:** Git y GitHub.
+- **Planificación y seguimiento:** GitHub Projects.
+- **Diseño de interfaces:** Figma.
+
+Las tareas y estimaciones podrán ajustarse durante el desarrollo según las necesidades del proyecto y los resultados de cada Sprint.
 
 ## Sprint 3 — Configuración del frontend y backend
 
