@@ -38,15 +38,18 @@ Digitalizar y optimizar el proceso de ventas de Sneaker mediante una plataforma 
 
 Las tecnologías previstas para el desarrollo son:
 
-| Componente | Tecnología |
+Las tecnologías previstas para el desarrollo son:
+
+| **Componente** | **Tecnología** |
 |---|---|
-| Frontend | React y JavaScript |
-| Backend | Node.js y Express |
+| Frontend | React, JavaScript, HTML y CSS |
+| Backend | Python y FastAPI |
+| ORM / Acceso a datos | SQLAlchemy |
 | Base de datos | PostgreSQL |
 | Control de versiones | Git y GitHub |
 | Planificación | GitHub Projects |
 | Diseño de interfaces | Figma |
-| Integración de pagos | Mercado Pago |
+| Integración de pagos | API de Mercado Pago |
 
 La selección tecnológica podrá ajustarse durante el desarrollo.
 
