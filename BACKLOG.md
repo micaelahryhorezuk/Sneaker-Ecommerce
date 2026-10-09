@@ -1,4 +1,4 @@
-# Sneaker — Product Backlog pendiente de carga
+# Sneaker — Product Backlog
 
 **Repositorio:** `micaelahryhorezuk/Sneaker-Ecommerce`  
 **GitHub Project:** `Sneaker - Planificación del desarrollo`
